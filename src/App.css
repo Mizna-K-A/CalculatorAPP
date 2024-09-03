@@ -1,0 +1,18 @@
+.button1{
+  width: 50%;
+  height: 50px;
+}
+.button1:hover{
+  border: solid white 2px;
+  color: white;
+  background-color: black;
+}
+.button2{
+  width: 25%;
+  height: 50px;
+}
+.button2:hover{
+  border: solid white 2px;
+  color: white;
+  background-color: black;
+}
